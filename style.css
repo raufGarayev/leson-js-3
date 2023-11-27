@@ -1,0 +1,15 @@
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+}
+
+.info {
+   display: none; 
+}
+
+.active {
+    display: block;
+}
